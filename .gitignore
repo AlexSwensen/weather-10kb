@@ -7,3 +7,6 @@ reports/
 
 # Misc
 .DS_Store
+
+# Editor Configs
+.idea/
